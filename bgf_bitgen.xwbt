@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\user data\Desktop\ise_6423\stepper_motor_1\bgf.ncd
+OUTFILE=D:\user data\Desktop\ise_6423\stepper_motor_1\bgf.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=D:\user data\Desktop\ise_6423\stepper_motor_1
+LICENSE=WebPack
+USER_INFO=212650071_0_0_132
